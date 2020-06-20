@@ -8,4 +8,4 @@ A simple tool to generate gradient background color dynamically
 
 ## How to run
 - Clone or download this repo locally 
-- launch the `index.html` file and hack away!
+- launch the `index.html` file in  your browser and hack away!
